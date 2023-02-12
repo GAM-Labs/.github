@@ -6,5 +6,5 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GrandAngleMeta?style=social">
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/GAM-Labs?style=social">
 </div>
-
+<br/>
 GAM Labs is in charge of developing tools for the GAM Guild
